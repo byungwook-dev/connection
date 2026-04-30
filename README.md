@@ -663,16 +663,10 @@ dependencies {
 
 ---
 
-## 📄 라이선스
-
-MIT License
-
----
-
 ## 📞 연락처
 
 - GitHub: [byungwook-dev](https://github.com/byungwook-dev)
-- Email: your-email@example.com
+- Email: byungwook.dev@gmail.com
 
 ---
 
